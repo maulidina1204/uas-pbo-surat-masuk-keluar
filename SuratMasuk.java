@@ -1,3 +1,7 @@
+/**
+ * Class Surat
+ * Dokumentasi oleh Muhammad Fahmi
+ */
 public class SuratMasuk extends Surat {
 
     private String pengirim;

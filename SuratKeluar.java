@@ -1,3 +1,7 @@
+/**
+ * Class Surat
+ * Dokumentasi oleh Muhammad Fahmi
+ */
 public class SuratKeluar extends Surat {
 
     private String tujuan;

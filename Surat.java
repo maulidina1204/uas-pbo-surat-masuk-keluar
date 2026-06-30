@@ -1,3 +1,7 @@
+/**
+ * Class Surat
+ * Dokumentasi oleh Muhammad Fahmi
+ */
 public class Surat {
 
     protected String nomorSurat;
