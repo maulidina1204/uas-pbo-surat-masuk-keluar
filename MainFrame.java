@@ -1,3 +1,6 @@
+/**
+ * Dikerjakan oleh dinda (maulidina1204)
+ */
 import javax.swing.*;
 import java.awt.*;
 
@@ -67,7 +70,7 @@ public class MainFrame extends JFrame {
 
         JLabel judul = new JLabel(
                 "APLIKASI ARSIP SURAT",
-                SwingConstants.CENTER);
+                SwingConstants.CENTER);                                 
 
         judul.setFont(new Font(
                 "Times New Roman",

@@ -1,7 +1,3 @@
-/**
- * Class Surat Manager
- * Dikerjakan oleh Bekti (Rizky Subekti)
- */
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
